@@ -28,11 +28,11 @@ const siteProps = {
   title: "Software Engineer",
   email: "zawawizainuddin@gmail.com",
   gitHub: "ZackBoyya",
-  instagram: "zirfan._",
+  instagram: "zirfannn._",
   linkedIn: "zawawiirfan",
   medium: "",
-  twitter: "zirfan",
-  youTube: "zawawiirfan",
+  twitter: "zirfann_",
+  youTube: "zawawiirfan3453",
 };
 
 const primaryColor = "#4E567E";
